@@ -1,0 +1,36 @@
+.icon{
+    height: 80px;
+}
+.body{
+    text-transform: uppercase;
+}
+.navbar-color {
+    color: aliceblue;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    background-color: #0cb8b6;
+    
+}
+
+.dropdown-item:hover{
+    color: greenyellow;
+    text-decoration: none;
+  }
+
+.dropdown-menu {
+    margin-top: 0;
+}
+
+.dropdown-item {
+    color: black;
+
+}
+
+.button-10 {
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    
+}
